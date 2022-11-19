@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.header {
+    background-color: blue;
+    position: relative;
+    width: 100%;
+    height: 60px;
+}
+
+.box {
+    
+    width: 150px;
+    height: 30px;
+    background-color: antiquewhite;
+    position: relative;
+    
+}
+
+#middle-box-position {
+    position: absolute;
+    top: 15px;
+    left: 700px;
+
+
+}
+
+#right-box-position {
+    float: right;
+    margin-top: 15px;
+    margin-right: 100px;
+  
+}
+
+#left-box-position {
+    float: left;
+    margin-top: 15px;
+    margin-left: 100px;
+    
+}
